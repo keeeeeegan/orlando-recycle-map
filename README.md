@@ -1,6 +1,6 @@
 Orlando Recycle Map
 ===========
-The idea is to create a map of locations in orlando where one can recycle. City of Orlando has created this map https://www.google.com/maps/d/viewer?msa=0&mid=zqrMwR-_umv0.kVYpBqTraEYg.
+The idea is to create a map of locations in the Orlando area where recyclables can be deposited or dropped off. City of Orlando has created this map https://www.google.com/maps/d/viewer?msa=0&mid=zqrMwR-_umv0.kVYpBqTraEYg. Our map should be able to accept requests for additional locations to be added. Based on Shareabouts (forked the Shareabouts repo).
 
 Shareabouts [![Build Status](https://secure.travis-ci.org/openplans/shareabouts.png)](http://travis-ci.org/openplans/shareabouts)
 ===========
