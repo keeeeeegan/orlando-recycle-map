@@ -1,3 +1,7 @@
+Orlando Recycle Map
+===========
+The idea is to create a map of locations in orlando where one can recycle. City of Orlando has created this map https://www.google.com/maps/d/viewer?msa=0&mid=zqrMwR-_umv0.kVYpBqTraEYg.
+
 Shareabouts [![Build Status](https://secure.travis-ci.org/openplans/shareabouts.png)](http://travis-ci.org/openplans/shareabouts)
 ===========
 
